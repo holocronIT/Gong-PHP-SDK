@@ -21,13 +21,13 @@ class Gong
 	 * Contain the host url without port
 	 * @var string
 	 */
-	private $host 				= 'http://localhost'; //http://gong.holocron.it
+	private $host 				= 'http://gong.holocron.it';
 
 	/**
 	 * Contain the port of the server
 	 * @var integer
 	 */
-	private $port 				= 3000;   // Il numero della porta risale all'anno di uscita del primo film di Star Wars //1977
+	private $port 				= 1977;   // Il numero della porta risale all'anno di uscita del primo film di Star Wars 
 
 	/**
 	 * Contain the apikey for grant access to the server
