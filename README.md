@@ -134,7 +134,7 @@ Solo CURL
 
 ## Contribuzione
 
-Si prega di leggere [CONTRIBUTING.md](https://github.com/holocronIT/CONTRIBUTING.md) per i dettagli sul nostro codice di condotta, e il processo per la presentazione di richieste di pull a noi.
+Si prega di leggere [CONTRIBUTING.md](https://gist.github.com/holocronIT/9de924e2c628857617988ae4ef927600) per i dettagli sul nostro codice di condotta, e il processo per la presentazione di richieste di pull a noi.
 
 ## Versionamento
 
